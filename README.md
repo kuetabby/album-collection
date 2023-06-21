@@ -1,3 +1,3 @@
-docker-compose up
-go get .
-go run .
+### docker-compose up
+### go get .
+### go run .
